@@ -1844,3 +1844,320 @@ LogInit: Object subsystem initialized
 [2019.01.24-01.36.45:089][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.01.24-01.36.46:583][485]LogSavePackage: Moving '../../../../../../Users/Jackson Hutson/Documents/GitHub/JDH_whiteboxcitylevel/JH_ICWhiteBox001_AP/Saved/JH_StreetLevelB9CF4B5F4092FF3F95E0EB9CEC2BC6CC.tmp' to '../../../../../../Users/Jackson Hutson/Documents/GitHub/JDH_whiteboxcitylevel/JH_ICWhiteBox001_AP/Content/JH_StreetLevel.umap'
 [2019.01.24-01.36.52:217][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.38.59:565][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.39.04:199][ 47]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.24-01.39.14:072][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.39.23:553][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.40.20:579][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.41.03:884][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.41.23:530][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.41.36:898][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.41.42:386][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.41.50:235][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.42.11:848][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.42.36:515][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.43.02:884][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.43.13:143][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.43.22:589][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.43.38:433][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.43.48:908][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.43.58:566][384]Cmd: TRANSACTION UNDO
+[2019.01.24-01.43.58:566][384]LogEditorTransaction: Undo Edit Step Width
+[2019.01.24-01.43.58:808][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_88.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:809][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_99.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:810][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_70.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:810][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_64.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:811][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_74.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:811][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_76.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:811][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Grass_2.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:812][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_125.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:814][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_101.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:814][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_114.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:815][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Corner_31.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:816][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_Corner_2.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:817][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_1.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:817][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_3.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:870][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_56.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:871][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_12.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:871][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_61.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:871][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_63.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:873][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_35.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:874][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_37.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:875][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_86.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:875][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_69.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:875][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_66.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:876][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_102.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:876][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_64.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:877][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Building_46.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:878][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_floor_1.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:881][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_116.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:885][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_118.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:886][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_160.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:886][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_154.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:887][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_164.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:887][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_166.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:888][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_138.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:888][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_48.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:888][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_151.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:889][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_153.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:890][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_10.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:891][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_30.BrushComponent0) Component already registered.
+[2019.01.24-01.43.58:892][384]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_178.BrushComponent0) Component already registered.
+[2019.01.24-01.44.06:580][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.44.13:925][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.44.22:538][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.44.44:650][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.45.00:200][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.45.08:035][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.45.16:093][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.45.32:807][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.45.55:817][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.46.26:180][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.46.45:059][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.46.46:353][853]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.24-01.46.49:758][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.46.56:411][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.47.17:310][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.47.44:172][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.48.03:784][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.48.12:058][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.48.25:169][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.48.36:807][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.48.55:791][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.49.00:292][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.49.13:486][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.49.30:725][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.49.37:293][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.49.47:026][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.50.07:801][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.50.16:371][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.50.27:965][170]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.24-01.50.38:852][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.50.54:309][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.51.00:041][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.51.12:329][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.51.26:641][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.51.36:178][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.51.57:140][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.51.58:640][305]LogSavePackage: Moving '../../../../../../Users/Jackson Hutson/Documents/GitHub/JDH_whiteboxcitylevel/JH_ICWhiteBox001_AP/Saved/JH_StreetLevel479436F640EA9F6A1804009102886B92.tmp' to '../../../../../../Users/Jackson Hutson/Documents/GitHub/JDH_whiteboxcitylevel/JH_ICWhiteBox001_AP/Content/JH_StreetLevel.umap'
+[2019.01.24-01.52.34:021][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.52.40:993][665]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.24-01.52.42:363][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.53.08:216][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.53.31:065][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.53.52:580][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.54.16:087][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.54.38:839][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.54.47:623][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.54.55:610][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.55.09:277][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.55.23:210][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.55.34:524][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.55.54:231][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.56.07:842][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.56.21:268][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.56.30:841][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.56.40:467][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.56.53:414][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.57.05:514][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.57.21:868][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.57.47:352][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.57.50:082][485]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.24-01.57.50:928][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.58.27:369][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.58.31:959][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.58.39:564][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.58.43:014][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.59.11:998][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.59.15:210][894]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.01.24-01.59.18:823][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.59.37:127][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.59.42:362][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.59.51:705][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.59.58:185][905]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.24-02.00.28:813][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.00.46:292][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.01.06:005][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.01.40:669][878]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.24-02.02.04:812][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.02.36:203][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.02.41:871][868]Cmd: MAP SENDTO LAST
+[2019.01.24-02.02.46:886][ 79]LogSlate: Window 'Select Path' being destroyed
+[2019.01.24-02.02.49:328][205]Cmd: MAP SENDTO FIRST
+[2019.01.24-02.02.52:656][328]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.24-02.02.53:756][383]LogEditorViewport: Clicking on Actor (LMB): Brush (Sphere Brush)
+[2019.01.24-02.02.55:436][463]Cmd: EDIT CUT
+[2019.01.24-02.02.55:638][463]LogEditorActor: Deleted Actor: Brush
+[2019.01.24-02.02.56:201][463]LogEditorActor: Deleted 1 Actors (0.679 secs)
+[2019.01.24-02.02.58:320][580]Cmd: EDIT PASTE
+[2019.01.24-02.03.04:768][800]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.24-02.03.07:055][933]Cmd: MAP SENDTO LAST
+[2019.01.24-02.03.09:030][989]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.24-02.03.09:782][ 32]Cmd: MAP SENDTO FIRST
+[2019.01.24-02.03.16:460][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.03.59:068][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.04.58:767][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.05.41:130][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.06.33:803][ 37]LogEditorViewport: Clicking on Actor (LMB): Brush (Brush_building_entrance_3)
+[2019.01.24-02.06.35:463][131]Cmd: TRANSACTION UNDO
+[2019.01.24-02.06.35:463][131]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.24-02.06.48:072][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.07.01:301][270]Cmd: TRANSACTION UNDO
+[2019.01.24-02.07.01:301][270]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.24-02.07.31:864][623]Cmd: TRANSACTION UNDO
+[2019.01.24-02.07.31:864][623]LogEditorTransaction: Undo Move Actors
+[2019.01.24-02.07.32:164][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_91.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:166][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_66.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:166][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_68.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:166][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_24.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:167][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_124.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:167][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_126.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:169][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_103.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:170][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_34.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:170][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_115.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:171][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_136.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:171][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Corner_31.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:173][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_Edge_8.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:173][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_1.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:173][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_1.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:173][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_3.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:413][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_57.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:414][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_15.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:414][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_31.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:415][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_9.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:415][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_44.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:416][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_68.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:417][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Building_82.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:417][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_87.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:418][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Building_46.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:418][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_48.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:422][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_window_cutout_4.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:423][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_windowpane_4.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:423][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_114.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:426][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_entrance_2.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:428][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_pillar_1.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:429][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_160.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:430][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_170.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:430][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_206.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:432][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_148.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:433][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_52.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:433][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_13.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:433][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_15.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:434][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_62.BrushComponent0) Component already registered.
+[2019.01.24-02.07.32:435][623]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_tree_leaves_12.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:287][657]Cmd: TRANSACTION UNDO
+[2019.01.24-02.07.33:287][657]LogEditorTransaction: Undo Move Actors
+[2019.01.24-02.07.33:583][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_91.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:585][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_66.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:585][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_68.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:585][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_24.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:586][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_124.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:586][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_126.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:588][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_103.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:588][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_34.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:589][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_115.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:590][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_136.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:590][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Corner_31.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:592][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_Edge_8.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:592][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_1.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:592][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_1.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:592][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_3.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:832][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_57.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:832][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_15.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:832][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_31.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:833][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_9.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:833][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_44.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:834][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_68.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:836][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Building_82.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:836][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_87.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:837][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Building_46.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:837][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_48.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:842][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_window_cutout_4.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:842][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_windowpane_4.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:842][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_114.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:845][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_entrance_2.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:846][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_pillar_1.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:847][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_160.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:848][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_170.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:848][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_206.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:850][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_148.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:851][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_52.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:851][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_13.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:851][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_15.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:852][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_62.BrushComponent0) Component already registered.
+[2019.01.24-02.07.33:853][657]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_tree_leaves_12.BrushComponent0) Component already registered.
+[2019.01.24-02.07.44:897][168]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere7)
+[2019.01.24-02.07.59:217][922]Cmd: EDIT COPY
+[2019.01.24-02.07.59:392][931]Cmd: EDIT PASTE
+[2019.01.24-02.08.11:484][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.08.25:497][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.08.34:198][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.08.40:584][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.09.24:508][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.09.43:633][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.10.02:635][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.10.24:721][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.10.36:912][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.10.59:561][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.11.04:931][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.11.19:906][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.11.27:154][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.11.41:655][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.11.46:737][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.12.03:307][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.12.36:710][889]Cmd: EDIT COPY
+[2019.01.24-02.12.36:906][900]Cmd: EDIT PASTE
+[2019.01.24-02.13.01:103][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.13.12:829][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.13.27:803][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.13.37:024][654]Cmd: TRANSACTION UNDO
+[2019.01.24-02.13.37:024][654]LogEditorTransaction: Undo Set Location
+[2019.01.24-02.13.37:314][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_27.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:315][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_31.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:315][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_99.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:317][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_66.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:317][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_68.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:318][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_75.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:318][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_77.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:318][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_174.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:319][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_176.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:319][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_129.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:320][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_131.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:320][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_109.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:321][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_111.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:322][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Corner_2.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:323][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Corner_4.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:324][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_Edge_8.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:324][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_1.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:327][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_4.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:560][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_6.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:561][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_54.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:562][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_71.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:562][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_31.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:563][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_9.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:563][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_44.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:565][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_69.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:565][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Building_83.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:566][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_builiding_roof_1.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:566][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_47.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:566][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_49.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:568][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_windowpane_2.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:568][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_window_cutout_1.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:571][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_110.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:571][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_112.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:573][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_entrance_2.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:575][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_162.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:575][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_57.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:578][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_152.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:578][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Sidewalk_61.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:580][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_33.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:581][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_Street_208.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:582][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_1.BrushComponent0) Component already registered.
+[2019.01.24-02.13.37:583][654]LogActorComponent: ~FComponentReregisterContext: (/Game/JH_StreetLevel.JH_StreetLevel:PersistentLevel.Brush_building_26.BrushComponent0) Component already registered.
+[2019.01.24-02.13.47:514][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.14.04:099][952]Cmd: EDIT COPY
+[2019.01.24-02.14.04:298][963]Cmd: EDIT PASTE
+[2019.01.24-02.14.28:612][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.14.33:128][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.15.15:469][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.15.17:854][499]LogSavePackage: Moving '../../../../../../Users/Jackson Hutson/Documents/GitHub/JDH_whiteboxcitylevel/JH_ICWhiteBox001_AP/Saved/JH_StreetLevel759C386544F0760BAE4CDFB069F96A88.tmp' to '../../../../../../Users/Jackson Hutson/Documents/GitHub/JDH_whiteboxcitylevel/JH_ICWhiteBox001_AP/Content/JH_StreetLevel.umap'
